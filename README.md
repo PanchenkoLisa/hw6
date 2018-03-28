@@ -14,3 +14,5 @@
 ### 2. Выберите два синонимичных глагола. Через Sketch diff выясните, с какими дополнениями (objects) они могут употребляться.
 ![](https://github.com/PanchenkoLisa/hw6/blob/master/WlV2FbtxUnU.jpg?raw=true)
 ### 3. бонусное задание: Откройте Trends (корпус BNC) и выберите одно из слов. Сравните, как менялась частотность этого слова в Google Ngrams.
+![](https://github.com/PanchenkoLisa/hw6/blob/master/7_z1MQaVBuE.jpg?raw=true)
+![]()
