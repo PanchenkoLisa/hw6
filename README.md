@@ -10,5 +10,5 @@
 # Часть 2
 ### 1. Выберите корпус British National Corpus (BNC). Найдите с помощью Word Sketch три самых частотных модификатора (modifiers) существительного question.
 ![](https://github.com/PanchenkoLisa/hw6/blob/master/InkedczKHYMa1o6k_LI.jpg?raw=true)
-![]()
+![](https://github.com/PanchenkoLisa/hw6/blob/master/Inkedi1QbaP7Zas8_LI.jpg?raw=true)
 ### 2. Выберите два синонимичных глагола. Через Sketch diff выясните, с какими дополнениями (objects) они могут употребляться.
