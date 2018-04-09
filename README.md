@@ -12,6 +12,9 @@
 ![](https://github.com/PanchenkoLisa/hw6/blob/master/InkedczKHYMa1o6k_LI.jpg?raw=true)
 ### 2. Выберите два синонимичных глагола. Через Sketch diff выясните, с какими дополнениями (objects) они могут употребляться.
 ![](https://github.com/PanchenkoLisa/hw6/blob/master/WlV2FbtxUnU.jpg?raw=true)
+Со словом deny могут использоваться такие дополнения как allegation, charge, existance и другие.
+Со словом refuse могут использоваться дополнения leave, treatment, admission и многие другие.
+Со обоими словами используются такие дополнения как access и visa. 
 ### 3. бонусное задание: Откройте Trends (корпус BNC) и выберите одно из слов. Сравните, как менялась частотность этого слова в Google Ngrams.
 ![](https://github.com/PanchenkoLisa/hw6/blob/master/7_z1MQaVBuE.jpg?raw=true)
 ![](https://github.com/PanchenkoLisa/hw6/blob/master/tPWCuvFWhLQ.jpg?raw=true)
